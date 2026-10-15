@@ -8,7 +8,7 @@ Every dataset used in this project, what it supports, and what it doesn't.
 |---|---|---|---|
 | L'Oréal Annual Reports / Universal Registration Documents | 2021–2024 | Total sales, LFL growth, e-commerce sales/share/growth, operating margin | Company-reported; e-commerce definition held consistent across the series |
 | L'Oréal 2025 Annual Results | 2025 | 2025 sales, reported/LFL growth, operating margin | Does not state the exact 2025 e-commerce figure — that comes from the 2025 Universal Registration Document (next row) |
-| L'Oréal 2025 Universal Registration Document | 2025 | 2025 e-commerce sales of €13.3 billion, 30.2% of Group sales | Company-reported; e-commerce definition as used by L'Oréal across the series |
+| L'Oréal 2025 Universal Registration Document | 2025 | 2025 e-commerce sales of €13.3 billion, 30.2% of Group sales | E-commerce figures are L'Oréal-reported; the underlying KPI uses non-audited self-reported data. E-commerce growth is reported on a like-for-like basis. (URD 2025, p. 126) |
 | L'Oréal × OpenAI announcement, 17 June 2026 (VivaTech) | 2026 | AI-powered discovery, virtual try-on, and advertising initiatives | Establishes public scope of the partnership; L'Oréal's specific measurement implementation is not detailed in this or any public source |
 
 L'Oréal's investor relations site: **https://www.loreal-finance.com**

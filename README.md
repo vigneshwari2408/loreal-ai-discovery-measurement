@@ -18,6 +18,8 @@ Working from L'Oréal's own five years of public financial disclosures (2021–2
 - **E-commerce share didn't rise in a straight line.** It fell from 28.9% to 27.0% between 2021–2023, then recovered to 28.2% in 2024 and reached 30.2% in 2025. The dip wasn't e-commerce slowing down — the rest of the business was simply growing faster in those two years.
 - **Growth and margin moved in different directions overall.** Like-for-like sales growth fell from 16.1% in 2021 to 4.0% in 2025, with a small uptick in 2023, while operating margin rose every year from 19.1% to 20.2%. The chart states plainly what it does and doesn't prove: this shows two metrics moving oppositely, not that one caused the other.
 
+*E-commerce figures are L'Oréal-reported; the underlying KPI uses non-audited self-reported data. E-commerce growth is reported on a like-for-like basis.*
+
 That second finding sets up the actual subject of the project: if a *measured* channel behaves this unevenly, what happens to a new, *harder-to-measure* one — like AI-driven discovery?
 
 ## The measurement problem
